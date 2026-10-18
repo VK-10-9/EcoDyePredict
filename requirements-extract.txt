@@ -1,0 +1,4 @@
+# Only needed for the paper-extraction step (src/extract_rag.py). Not needed to deploy the app.
+pymupdf
+sentence-transformers
+anthropic

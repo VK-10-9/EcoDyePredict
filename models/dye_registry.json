@@ -1,0 +1,37 @@
+{
+  "methylene blue": {
+    "slug": "methylene_blue",
+    "rows": 97,
+    "best_model": "Linear Regression",
+    "test_r2": 0.9312313985011351,
+    "models_dir": "D:\\EcoDyePredict\\models\\methylene_blue"
+  },
+  "erythrosine b": {
+    "slug": "erythrosine_b",
+    "rows": 27,
+    "best_model": "Decision Tree",
+    "test_r2": 0.7609153748347829,
+    "models_dir": "D:\\EcoDyePredict\\models\\erythrosine_b"
+  },
+  "basic red 46": {
+    "slug": "basic_red_46",
+    "rows": 21,
+    "best_model": "Decision Tree",
+    "test_r2": -0.13147608311294,
+    "models_dir": "D:\\EcoDyePredict\\models\\basic_red_46"
+  },
+  "basic violet 10": {
+    "slug": "basic_violet_10",
+    "rows": 16,
+    "best_model": "Random Forest",
+    "test_r2": -0.22798651382931356,
+    "models_dir": "D:\\EcoDyePredict\\models\\basic_violet_10"
+  },
+  "reactive black 5": {
+    "slug": "reactive_black_5",
+    "rows": 13,
+    "best_model": "Random Forest",
+    "test_r2": 0.10013665659515536,
+    "models_dir": "D:\\EcoDyePredict\\models\\reactive_black_5"
+  }
+}

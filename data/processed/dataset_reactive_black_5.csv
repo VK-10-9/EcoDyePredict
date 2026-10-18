@@ -1,0 +1,14 @@
+pH,dosage_g_L,conc_mg_L,time_min,temp_C,removal_pct,dye,adsorbent,source_doi,origin
+2.0,0.5,50.0,60,25.0,38.2,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,50.0,60,25.0,34.5,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+4.0,0.5,50.0,60,25.0,18.0,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+5.0,0.5,50.0,60,25.0,8.5,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,60,25.0,3.2,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+2.5,0.5,10.0,60,25.0,45.0,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+2.5,0.5,25.0,60,25.0,40.2,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+2.5,0.5,100.0,60,25.0,22.4,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+2.5,1.0,50.0,60,25.0,52.0,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+2.5,2.0,50.0,60,25.0,68.5,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+2.5,5.0,50.0,60,25.0,82.0,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+2.5,0.5,50.0,120,25.0,36.0,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table
+2.5,0.5,50.0,180,25.0,37.0,reactive black 5,pumpkin seed husk,10.5004/dwt.2019.24761,table

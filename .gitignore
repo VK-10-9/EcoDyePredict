@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+data/papers_cache/
+*.pyc
+.ipynb_checkpoints/
+data/papers/*.pdf
+data/papers/*.xlsx
+data/papers/*.xml
+data/papers/*.csv
+!data/papers/README.txt
+!data/papers/.gitkeep

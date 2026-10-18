@@ -1,0 +1,17 @@
+pH,dosage_g_L,conc_mg_L,time_min,temp_C,removal_pct,dye,adsorbent,source_doi,origin
+2.0,0.5,50.0,60,25.0,68.4,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,50.0,60,25.0,84.6,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+4.0,0.5,50.0,60,25.0,76.2,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+5.0,0.5,50.0,60,25.0,65.0,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,60,25.0,54.3,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.2,50.0,60,25.0,41.0,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,1.0,50.0,60,25.0,92.0,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,2.0,50.0,60,25.0,96.5,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,10.0,60,25.0,94.0,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,25.0,60,25.0,89.2,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,100.0,60,25.0,68.5,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,200.0,60,25.0,51.0,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,50.0,15,25.0,48.0,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,50.0,30,25.0,69.5,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,50.0,120,25.0,87.2,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table
+3.0,0.5,50.0,180,25.0,88.0,basic violet 10,pumpkin seed husk,10.5004/dwt.2019.24761,table

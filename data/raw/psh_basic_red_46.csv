@@ -1,0 +1,23 @@
+pH,dosage_g_L,conc_mg_L,time_min,temp_C,removal_pct,dye,adsorbent,source_doi,origin
+3.0,0.5,50.0,60,25.0,42.5,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+4.0,0.5,50.0,60,25.0,56.8,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+5.0,0.5,50.0,60,25.0,71.2,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,60,25.0,88.5,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+7.0,0.5,50.0,60,25.0,87.1,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+8.0,0.5,50.0,60,25.0,85.3,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.2,50.0,60,25.0,48.0,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,60,25.0,88.5,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,1.0,50.0,60,25.0,94.2,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,2.0,50.0,60,25.0,97.6,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,10.0,60,25.0,96.0,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,25.0,60,25.0,92.4,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,100.0,60,25.0,74.8,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,200.0,60,25.0,58.2,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,500.0,60,25.0,32.7,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,15,25.0,52.0,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,30,25.0,72.4,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,120,25.0,91.0,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,180,25.0,92.5,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,60,20.0,86.0,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,60,30.0,89.2,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table
+6.0,0.5,50.0,60,40.0,91.8,basic red 46,pumpkin seed husk,10.5004/dwt.2019.24761,table

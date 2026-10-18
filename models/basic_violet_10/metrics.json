@@ -1,0 +1,93 @@
+{
+  "demo": false,
+  "dye": "basic violet 10",
+  "n_rows": 16,
+  "n_train": 12,
+  "n_test": 4,
+  "features": [
+    "pH",
+    "dosage_g_L",
+    "conc_mg_L",
+    "time_min",
+    "temp_C"
+  ],
+  "ranges": {
+    "pH": [
+      2.0,
+      6.0
+    ],
+    "dosage_g_L": [
+      0.2,
+      2.0
+    ],
+    "conc_mg_L": [
+      10.0,
+      200.0
+    ],
+    "time_min": [
+      15.0,
+      180.0
+    ],
+    "temp_C": [
+      25.0,
+      25.0
+    ]
+  },
+  "models": {
+    "Linear Regression": {
+      "cv_r2": -5.78209616278781,
+      "test_r2": 0.07444621954338482,
+      "test_rmse": 17.68851196351346,
+      "test_mae": 13.616966369366946,
+      "best_params": {
+        "m__fit_intercept": true
+      }
+    },
+    "Decision Tree": {
+      "cv_r2": -1.2785566086389215,
+      "test_r2": -0.03833752403490598,
+      "test_rmse": 18.735260873550704,
+      "test_mae": 16.45,
+      "best_params": {
+        "max_depth": 5,
+        "min_samples_leaf": 1
+      }
+    },
+    "Random Forest": {
+      "cv_r2": -1.0239475917871208,
+      "test_r2": -0.22798651382931356,
+      "test_rmse": 20.374514497283105,
+      "test_mae": 15.599999999999998,
+      "best_params": {
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "n_estimators": 100
+      }
+    }
+  },
+  "best": "Random Forest",
+  "importance": {
+    "pH": 0.184337696155058,
+    "dosage_g_L": 0.1548097511955546,
+    "conc_mg_L": 0.39816508524650734,
+    "time_min": 0.28727091856199566,
+    "temp_C": 0.0
+  },
+  "test_predictions": {
+    "actual": [
+      68.4,
+      84.6,
+      41.0,
+      87.2
+    ],
+    "predicted": [
+      79.07899999999997,
+      79.07899999999997,
+      79.07899999999997,
+      79.07899999999997
+    ]
+  },
+  "warnings": [
+    "Only 16 rows: scores are unstable."
+  ]
+}
