@@ -1,11 +1,11 @@
 {
-  "rows_read": 184,
-  "dropped_graph_estimate": 0,
-  "dropped_missing_values": 0,
+  "rows_read": 559,
+  "dropped_graph_estimate": 13,
+  "dropped_missing_values": 7,
   "dropped_out_of_range": 0,
-  "dropped_duplicates": 10,
+  "dropped_duplicates": 19,
   "dye": "erythrosine b",
-  "rows_final": 27,
+  "rows_final": 101,
   "adsorbents": [
     "pumpkin seed husk"
   ],

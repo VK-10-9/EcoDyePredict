@@ -42,6 +42,12 @@ def main():
         df[c] = pd.to_numeric(df[c], errors="coerce")
     for c in ["dye", "adsorbent"]:
         df[c] = df[c].astype("string").str.strip().str.lower()
+    df["dye"] = df["dye"].replace({
+        "methylene blue (mb)": "methylene blue",
+        "mb": "methylene blue",
+        "rhodamine b": "basic violet 10",
+        "rhodamine b (bv10)": "basic violet 10",
+    })
     n0 = len(df)
     log = {"rows_read": n0}
 

@@ -9,5 +9,5 @@ set /p X="Also install the paper-extraction packages (large, ~2 GB with torch)? 
 if /i "%X%"=="y" pip install -r requirements-extract.txt
 if not exist .env copy .env.example .env
 echo.
-echo Setup done. Edit .env and paste your ANTHROPIC_API_KEY if you will run the extraction step.
+echo Setup done. Edit .env and paste your GEMINI_API_KEY if you will run the extraction step.
 pause

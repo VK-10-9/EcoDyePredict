@@ -49,6 +49,12 @@ DYE_INFO = {
         "optimal_pH": "Acidic pH (2 - 3)",
         "mechanism": "Strong protonation of adsorbent amine/hydroxyl groups at pH 2-3 allows electrostatic binding of anionic sulfonate groups.",
         "papers": ["Kowalkowska & Jóźwiak (2019), Desalination & Water Treatment"]
+    },
+    "reactive yellow 84": {
+        "class": "Anionic (Reactive Azo)",
+        "optimal_pH": "Acidic pH (2 - 3)",
+        "mechanism": "Electrostatic attraction between protonated PSH surface hydroxyl sites and anionic sulfonic groups of RY84 dye.",
+        "papers": ["Kowalkowska & Jóźwiak (2019), Desalination & Water Treatment"]
     }
 }
 
@@ -64,7 +70,7 @@ with st.sidebar:
     avail_gb = mem.available / (1024**3)
     total_gb = mem.total / (1024**3)
     
-    st.caption("Hardware: **AMD Ryzen 9 270** · **RTX 5060 Laptop GPU**")
+    st.caption(f"Hardware: **{psutil.cpu_count(logical=True)} CPU Threads** · **{total_gb:.1f} GB RAM**")
     st.progress(mem.percent / 100.0, text=f"RAM Used: {mem.percent}% ({avail_gb:.2f} GB free of {total_gb:.1f} GB)")
     st.progress(min(cpu_pct / 100.0, 1.0), text=f"CPU Load: {cpu_pct:.1f}%")
     

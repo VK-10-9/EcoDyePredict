@@ -1,4 +1,5 @@
-# Only needed for the paper-extraction step (src/extract_rag.py). Not needed to deploy the app.
+# Optional dependencies for scientific paper extraction (src/extract_rag.py)
 pymupdf
 sentence-transformers
-anthropic
+google-generativeai
+openpyxl
